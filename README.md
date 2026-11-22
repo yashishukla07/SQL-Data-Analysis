@@ -1,5 +1,3 @@
-# SQL-Data-Analysis
-SQL practice and data analysis projects covering joins, aggregations, subqueries, filtering and business problem-solving.
 # SQL Data Analysis Portfolio
 
 Welcome to my SQL Data Analysis repository!
